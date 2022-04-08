@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "au.com.commbank.commsec.test"],
+             "appIDs": [ "2YXDVMCBZM.au.com.commbank.commsec.test"],
              "components": [
                {
                   "#": "no_universal_links",
