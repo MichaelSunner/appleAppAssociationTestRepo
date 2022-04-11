@@ -1,0 +1,12 @@
+<application>
+  <activity android:name=”MainActivity”>
+    <intent-filter android:autoVerify="true">
+      <action android:name="android.intent.action.VIEW" />
+      <category android:name="android.intent.category.DEFAULT" />
+      <category android:name="android.intent.category.BROWSABLE" />
+      <data android:scheme="http" />
+      <data android:scheme="https" />
+      <data android:host="purple-water-090e4f700.1.azurestaticapps.net" />
+    </intent-filter>
+  </activity>
+</application>
