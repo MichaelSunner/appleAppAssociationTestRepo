@@ -7,5 +7,14 @@
       "sha256_cert_fingerprints":
         ["D4:9C:F6:FA:AC:0C:60:FD:BD:9E:8B:80:B4:94:05:29:87:9A:E3:93:1E:62:B6:28:FF:EB:DB:39:0A:75:7D:E2"]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "au.com.commsec.android.CommSec.DEBUG",
+      "sha256_cert_fingerprints":
+        ["D4:9C:F6:FA:AC:0C:60:FD:BD:9E:8B:80:B4:94:05:29:87:9A:E3:93:1E:62:B6:28:FF:EB:DB:39:0A:75:7D:E2"]
+    }
   }
 ]
